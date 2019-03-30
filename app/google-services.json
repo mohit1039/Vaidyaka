@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "152255998002",
+    "firebase_url": "https://vaidyaka-6c150.firebaseio.com",
+    "project_id": "vaidyaka-6c150",
+    "storage_bucket": "vaidyaka-6c150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152255998002:android:91bcc0d8b67c1d5a",
+        "android_client_info": {
+          "package_name": "medic.vaidyaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152255998002-5m2hpnisht86prv981gteboph15crts1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "medic.vaidyaka",
+            "certificate_hash": "74043f93e18b79ea3f0632bd30c47dff750c6df2"
+          }
+        },
+        {
+          "client_id": "152255998002-u0pq77qb0fm9d7d2sai5d1ptt23i1ghj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6BkecokWxdK0BZbFS11hQrR3DdaMeNzU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152255998002-u0pq77qb0fm9d7d2sai5d1ptt23i1ghj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

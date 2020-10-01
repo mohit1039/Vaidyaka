@@ -1,2 +1,2 @@
 # Vaidyaka
-Chatbot for Medical patient
+Chatbot for Medical patient and appointment
